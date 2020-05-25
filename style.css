@@ -1,0 +1,89 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    background: #a8dadc;
+}
+
+.name {
+    text-align: center;
+    font-size: 3rem;
+    margin: 10px;
+}
+
+.description {
+    text-align: center;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+#text {
+    width: 100%;
+    height: 50vh;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+#speed {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#label {
+    background: #e63946;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#play-button {
+    color: white;
+    background: #e63946;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    border-radius: 25px;
+    border-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#play-button:hover {
+    color: #e63946;
+    background: white;
+    border-color: white;
+    font-size: 1rem;
+}
+
+#stop-button {
+    color: white;
+    background: #e63946;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    border-color: white;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#stop-button:hover {
+    color: #e63946;
+    background: white;
+    border-color: white;
+    font-size: 1rem;
+}
+
+#pause-button {
+    color: white;
+    background: #e63946;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    border-color: white;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#pause-button:hover {
+    color: #e63946;
+    background: white;
+    border-color: white;
+    font-size: 1rem;
+}
